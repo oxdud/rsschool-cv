@@ -1,1 +1,1 @@
-https://oxdud.github.io/rsschool-cv/cv
+https://oxdud.github.io/rsschool-cv/
