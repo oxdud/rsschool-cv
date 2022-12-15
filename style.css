@@ -1,0 +1,14 @@
+.red {
+    background-color: red;
+    padding: 50px;
+    text-align: center;
+
+}
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+.flex_block {
+    display: flex;
+}
